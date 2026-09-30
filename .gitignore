@@ -1,0 +1,15 @@
+# Bỏ qua toàn bộ thư mục cấu hình của IntelliJ
+.idea/
+*.iml
+out/
+
+# Bỏ qua các file sinh ra khi build/chạy
+build/
+dist/
+
+# Bỏ qua cấu hình cá nhân NetBeans
+nbproject/private/
+
+# Bỏ qua file nhị phân
+*.class
+*.log

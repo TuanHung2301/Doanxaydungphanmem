@@ -1,21 +1,19 @@
-# Bỏ qua toàn bộ thư mục cấu hình và metadata của IntelliJ IDEA
+# IDEs and Editors (NetBeans, IntelliJ, Eclipse)
 .idea/
 *.iml
 out/
-
-# Bỏ qua các file sinh ra khi build/chạy
-build/
-dist/
-
-# Bỏ qua toàn bộ cấu hình NetBeans và kịch bản Ant
 nbproject/
 build.xml
 manifest.mf
 
-# Bỏ qua file nhị phân và log hệ thống
+# Build outputs
+build/
+dist/
+
+# Bytecode & logs
 *.class
 *.log
 
-# Bỏ qua file rác của hệ điều hành
+# OS metadata
 .DS_Store
 Thumbs.db

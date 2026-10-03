@@ -1,4 +1,4 @@
-# Bỏ qua toàn bộ thư mục cấu hình của IntelliJ
+# Bỏ qua toàn bộ thư mục cấu hình và metadata của IntelliJ IDEA
 .idea/
 *.iml
 out/
@@ -7,9 +7,15 @@ out/
 build/
 dist/
 
-# Bỏ qua cấu hình cá nhân NetBeans
-nbproject/private/
+# Bỏ qua toàn bộ cấu hình NetBeans và kịch bản Ant
+nbproject/
+build.xml
+manifest.mf
 
-# Bỏ qua file nhị phân
+# Bỏ qua file nhị phân và log hệ thống
 *.class
 *.log
+
+# Bỏ qua file rác của hệ điều hành
+.DS_Store
+Thumbs.db

@@ -1,5 +1,6 @@
 🚀 HỆ THỐNG CHĂM SÓC VÀ XỬ LÝ YÊU CẦU KHÁCH HÀNG
 Phần mềm hỗ trợ tiếp nhận, quản lý và phân loại phiếu yêu cầu hỗ trợ khách hàng, xây dựng theo kiến trúc MVC nhiều tầng với giao diện Java Swing và cơ sở dữ liệu MySQL.
+
 📌 1. BÁO CÁO TIẾN ĐỘ ĐỒ ÁN
 🔹 Báo cáo tuần 1 (04/10/2026): Xem chi tiết tại file README_4_11.md
 🔹 Báo cáo tuần 2 (11/10/2026): Sẽ cập nhật tại README_11_11.md

@@ -1,4 +1,4 @@
-🚀 HỆ THỐNG CHĂM SÓC VÀ XỬ LÝ YÊU CẦU KHÁCH HÀNG (CSKH KeySoft)
+🚀 HỆ THỐNG CHĂM SÓC VÀ XỬ LÝ YÊU CẦU KHÁCH HÀNG
 
 Phần mềm hỗ trợ tiếp nhận, quản lý và phân loại phiếu yêu cầu hỗ trợ khách hàng, xây dựng theo kiến trúc MVC nhiều tầng với giao diện Java Swing và cơ sở dữ liệu MySQL.
 

@@ -6,7 +6,7 @@ Phần mềm hỗ trợ tiếp nhận, quản lý và phân loại phiếu yêu 
 
 🔹 Báo cáo tuần 1 (04/10/2026): Xem chi tiết tại README_4_11.md
 
-🔹 Báo cáo tuần 2 (11/10/2026): Sẽ cập nhật tại README_11_11.md
+🔹 Báo cáo tuần 2 (11/10/2026): Xem chi tiết tại README_11_11.md
 
 🛠 2. CÔNG NGHỆ VÀ KỸ THUẬT SỬ DỤNG
 
